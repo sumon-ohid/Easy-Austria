@@ -19,7 +19,8 @@ Can be downloaded on Gumroad.
 
 ## Features
 
-``` Simple guidance for newcomers in Austria.
+```
+Simple guidance for newcomers in Austria.
 
 Easy navigate
 Full checklist
