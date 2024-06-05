@@ -26,13 +26,10 @@ Flutter/flutter_export_environment.sh
 ServiceDefinitions.json
 Runner/GeneratedPluginRegistrant.*
 
+/Runner/GoogleService-Info.plist
+
 # Exceptions to above rules.
 !default.mode1v3
 !default.mode2v3
 !default.pbxuser
 !default.perspectivev3
-
-lib/backend/firebase/firebase_config.dart
-android/app/google-services.json
-ios/Runner/GoogleService-Info.plist
-.DS_Store
