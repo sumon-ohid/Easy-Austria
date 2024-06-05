@@ -1,1 +1,4 @@
-ios
+firebase_config.dart
+google-services.json
+GoogleService-Info.plist
+.DS_Store
