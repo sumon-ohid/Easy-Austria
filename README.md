@@ -12,9 +12,9 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 
 ## Download
 
-Can be downloaded on Gumroad.
+Download for free !!
 
-[Download apk](https://msumon.gumroad.com/l/easy-austria)
+[Download apk](https://fastupload.io/14cd9645234f57e1)
 
 
 ## Features
