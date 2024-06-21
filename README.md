@@ -15,11 +15,11 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 Download for free !!
 
 https://www.mediafire.com/file/jioqjotbj8m7dyy/Easy-Austria-app.apk/file
-[Download App for Android]((https://www.mediafire.com/file/jioqjotbj8m7dyy/Easy-Austria-app.apk/file))
+[Download App for Android](https://www.mediafire.com/file/jioqjotbj8m7dyy/Easy-Austria-app.apk/file)
 
 Test Online
 
-[Easy Austria Web](([https://www.mediafire.com/file/jioqjotbj8m7dyy/Easy-Austria-app.apk/file](https://sumon.flutterflow.app/)))
+[Easy Austria Web](https://www.mediafire.com/file/jioqjotbj8m7dyy/Easy-Austria-app.apk/file](https://sumon.flutterflow.app/)
 
 
 ## Features
