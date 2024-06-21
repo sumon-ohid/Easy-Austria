@@ -2,11 +2,11 @@
 
 A new Flutter project. Built in low code platform Flutterflow.
 
-<img src="EASY AUSTRIA.png" alt="Easy Austria" width="400">
+<img src="EASY AUSTRIA.png" alt="Easy Austria" width="600">
 
 ## Getting Started
 
-<img src="https://github.com/sumon-ohid/Easy-Austria/assets/117649754/b2260fe1-a890-45dc-a26e-26057985c258" alt="Download App" width="200" height="300">
+<img src="https://github.com/sumon-ohid/Easy-Austria/assets/117649754/b2260fe1-a890-45dc-a26e-26057985c258" alt="Download App" width="400" height="500">
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
 
