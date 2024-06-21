@@ -2,17 +2,15 @@
 
 A new Flutter project. Built in low code platform Flutterflow.
 
-![alt text](<EASY AUSTRIA.png>)
+<img src="EASY AUSTRIA.png" alt="Easy Austria" width="400">
 
 ## Getting Started
 
-![apk](https://github.com/sumon-ohid/Easy-Austria/assets/117649754/b2260fe1-a890-45dc-a26e-26057985c258)
-
-<img src="[https://github.com/sumon-ohid/Easy-Austria/assets/117649754/b2260fe1-a890-45dc-a26e-26057985c258]" alt="Download App" width="200" height="300">
+<img src="https://github.com/sumon-ohid/Easy-Austria/assets/117649754/b2260fe1-a890-45dc-a26e-26057985c258" alt="Download App" width="200" height="300">
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
 
-![alt text](<Your paragraph text.png>)
+<img src="Your paragraph text.png" alt="Your paragraph text" width="400">
 
 ## Download
 
@@ -23,7 +21,6 @@ Download for free !!
 Test Online
 
 [Easy Austria Web](https://sumon.flutterflow.app)
-
 
 ## Features
 
