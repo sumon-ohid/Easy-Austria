@@ -1,7 +1,7 @@
 # Easy Austria
 
 This is one of my side project called Easy Austria. The main goal to build this App is to help EU citizens who wants to or newly moved to Austria. In the app you will find complete guidance from finding apartments to obtaining Registration Certificate (anmeldebescheinigung). I included some helpful links and forms to make the proccess easier.
-Overtime I will update informations and will add new features. Fully built on FlutterFlow.
+Overtime I will update informations and will add new features. Fully built on low code platform FlutterFlow and Firebase api for databse.
 
 ![alt text](<EASY AUSTRIA.png>)
 
