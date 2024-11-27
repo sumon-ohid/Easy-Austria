@@ -9,11 +9,7 @@ Overtime I will update informations and will add new features. Fully built on lo
 ![alt text](<Your paragraph text.png>)
 
 
-## Download Free
-
-Click the link to Download for free!!
-
-[Download App for Android](https://shorturl.at/sMtJk)
+## TEST HERE
 
 Click the link to test it online!!
 
